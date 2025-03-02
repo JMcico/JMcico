@@ -26,6 +26,8 @@ I enjoy **hiking** and spending time outdoors.
 
 ![Jingda's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMcico&show_icons=true&theme=transparent&hide_border=true)
 
+![JMcico's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JMcico&theme=github-compact)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JMcico&layout=compact&theme=transparent&hide_border=true)
 
 ---
