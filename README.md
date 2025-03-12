@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jingda Chen
+# 👋 Hi, I'm Jim Chen
 
 I'm a **Passionate Developer** based in **London**, experienced in **backend development**, **API design**, and **Android development**.  
 
