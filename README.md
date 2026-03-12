@@ -20,7 +20,7 @@ I'm a **Passionate Developer** based in **London**, experienced in **backend dev
 - **Large Language Models (LLM)** and the latest trends in AI  
 
 ### 🥾 Outside of Work
-I enjoy **hiking** and spending time outdoors.
+I enjoy **hiking** and organize a hiking community [野行社](https://xhslink.com/m/3ULD4cdSmhB).
 
 ---
 
